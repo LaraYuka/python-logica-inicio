@@ -32,7 +32,7 @@ b = 10
 c = 9
 
 #validar se o triangulo é valido
-"""if a >= b + c:
+if a >= b + c:
     # bloco verdadeiro
     print('a não é menor que b + c')
     print('não é um triângulo válido')
@@ -44,7 +44,7 @@ elif c >= a + b:
     print('não é um triângulo válido')
 else:
     # bloco falso
-    print('é um triângulo válido')"""
+    print('é um triângulo válido')
 
 
 
